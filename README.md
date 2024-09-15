@@ -1,0 +1,1 @@
+En este proyecto, lo que hice fue aplicar diferentes tipos de animaciones a los botones de la pagina y modificar algunos aspectos de el titulo y la lista que agregue(Color, color de fondo, tipo de letra, etc).
